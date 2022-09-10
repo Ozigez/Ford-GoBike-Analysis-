@@ -1,8 +1,8 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Ford GoBike Dataset Exploration )
+## by (Ozigis Mutalib)
 
 
-## Dataset
+##Go Bike Dataset
 
     1.This data set was provided by Udacity data analytics course in the communicate your data finding projectincludes information about individual rides made in a bike-sharing system(Ford GoBike) covering the greater San Francisco Bay area for the month of February,2017.The data set contains information about 183412 bike trips.This information spread across 16 columns whose names are intuitive- duration_sec,start_time,end_time,start_station_id,start_station_name,start_station_latitude,start_station_longitude,end_station_id end_station_name,end_station_latitude,end_station_longitude,bike_id user_type,member_birth_year member_gender,bike_share_for_all_trip.
     
